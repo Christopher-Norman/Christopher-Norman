@@ -1,4 +1,5 @@
-### Hi there 👋
+### Passionate for all things ML.
+[![@christophernorman's Holopin board](https://holopin.me/christophernorman)](https://holopin.io/@christophernorman)
 
 <!--
 **Christopher-Norman/Christopher-Norman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
