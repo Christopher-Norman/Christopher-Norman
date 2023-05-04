@@ -1,4 +1,9 @@
 ### Passionate for all things ML.
+
+<p align="center"> 
+  <a><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=200&size=35&duration=4200&pause=1000&color=5CF7C9&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Maths+and+Computer+Science+Graduate" alt="Typing SVG" /></a>
+</p>
+
 [![@christophernorman's Holopin board](https://holopin.me/christophernorman)](https://holopin.io/@christophernorman)
 
 <!--
